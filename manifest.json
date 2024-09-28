@@ -1,0 +1,21 @@
+{
+  "name": "Gestor de Gastos del Hogar",
+  "short_name": "Gestor Gastos",
+  "description": "Una aplicación para gestionar los gastos del hogar",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4a90e2",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
